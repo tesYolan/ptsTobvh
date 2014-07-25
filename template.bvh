@@ -1,0 +1,609 @@
+HIERARCHY
+ROOT Origin
+{
+    OFFSET *ROOT
+    CHANNELS 3 Xposition Yposition Zposition
+    JOINT Neck
+    {
+        OFFSET *NECK
+        CHANNELS 3 Xposition Yposition Zposition
+        JOINT ear_left_top
+        {
+          OFFSET  ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT ear_left_middle
+        {
+          OFFSET ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT ear_left_bottom
+        {
+          OFFSET ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT jaw_left_upper
+        {
+          OFFSET ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT jaw_left_upper2
+        {
+          OFFSET ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT jaw_left_middle
+        {
+          OFFSET ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT jaw_left_middle2
+        {
+          OFFSET ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT jaw_left_bottom
+        {
+          OFFSET ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT jaw_center
+        {
+          OFFSET ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT jaw_right_bottom
+        {
+          OFFSET ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT jaw_right_middle
+        {
+          OFFSET ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT jaw_right_middle2
+        {
+          OFFSET ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT jaw_left_upper
+        {
+          OFFSET ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT jaw_left_upper2
+        {
+          OFFSET ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT ear_right_bottom
+        {
+          OFFSET ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT ear_right_middle
+        {
+          OFFSET ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT ear_right_top
+        {
+          OFFSET   ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT eye_left_brow_1
+        {
+          OFFSET  ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT eye_left_brow_2
+        {
+          OFFSET  ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT eye_left_brow_3
+        {
+          OFFSET  ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT eye_left_brow_4
+        {
+          OFFSET  ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT eye_left_brow_5
+        {
+          OFFSET  ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT eye_right_brow_1
+        {
+          OFFSET  ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT eye_right_brow_2
+        {
+          OFFSET  ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT eye_right_brow_3
+        {
+          OFFSET ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT eye_right_brow_4
+        {
+          OFFSET  ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT eye_right_brow_5
+        {
+          OFFSET  ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT nose_top_1
+        {
+          OFFSET  ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT nose_top_2
+        {
+          OFFSET  ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT nose_top_3
+        {
+          OFFSET  ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT nose_tip
+        {
+          OFFSET  ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT nose_base_1
+        {
+          OFFSET  ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT nose_base_2
+        {
+          OFFSET  ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT nose_base_3
+        {
+          OFFSET  ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT nose_base_4
+        {
+          OFFSET  ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT nose_base_5
+        {
+          OFFSET  ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT eye_left_1
+        {
+          OFFSET  ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT eye_left_2
+        {
+          OFFSET  ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT eye_left_3
+        {
+          OFFSET  ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT eye_left_4
+        {
+          OFFSET  ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT eye_left_5
+        {
+          OFFSET  ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT eye_left_6
+        {
+          OFFSET  ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT eye_right_1
+        {
+          OFFSET   ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT eye_right_2
+        {
+          OFFSET  ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT eye_right_3
+        {
+          OFFSET  ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT eye_right_4
+        {
+          OFFSET  ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT eye_right_5
+        {
+          OFFSET  ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT eye_right_6
+        {
+          OFFSET  ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT mouse_1
+        {
+          OFFSET   ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT mouse_2
+        {
+          OFFSET  ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT mouse_3
+        {
+          OFFSET   ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT mouse_4
+        {
+          OFFSET  ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT mouse_5
+        {
+          OFFSET   ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT mouse_6
+        {
+          OFFSET   ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT mouse_7
+        {
+          OFFSET   ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT mouse_8
+        {
+          OFFSET  ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT mouse_9
+        {
+          OFFSET  ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT mouse_10
+        {
+          OFFSET   ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT mouse_11
+        {
+          OFFSET   ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT mouse_12
+        {
+          OFFSET   ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT mouse_13
+        {
+          OFFSET   ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT mouse_14
+        {
+          OFFSET  ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT mouse_15
+        {
+          OFFSET   ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT mouse_16
+        {
+          OFFSET   ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT mouse_17
+        {
+          OFFSET   ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+	JOINT mouse_18
+        {
+          OFFSET   ***
+          CHANNELS 3 Xposition Yposition Zposition
+          End Site
+          {
+            OFFSET *ENDSITE
+          }
+        }
+    }
+}
+MOTION 
+FRAMES: *FRAMENUMBER
+FRAME TIME: *FRAMETIME
+*MOVEMENT *JOINT DISPLACEMENTS
